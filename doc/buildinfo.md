@@ -8,7 +8,7 @@ Django version = 4.2.7 <br />
 "server/" - Django web server <br />
 
 
-# Windows commands
+# Windows 10
 ## First setup guide 
 1) Clone project and open cmd to project root ```C:\ ... \M7011E_Project\```
 2) Install python 3.11.6: ```https://www.python.org/downloads/```
