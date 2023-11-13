@@ -61,14 +61,3 @@ class Order_Item(models.Model):
     order = models.ForeignKey("Order", on_delete=models.CASCADE)
     price = models.IntegerField()
     count = models.IntegerField()
-
-
-
-
-
-
-
-
-
-
-
